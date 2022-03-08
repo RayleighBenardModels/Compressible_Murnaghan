@@ -1,0 +1,22 @@
+Lx = 4
+Rayleigh = 1.e5
+nn = 3.3
+epsilon = 1.0e-2
+Di = 1.0
+r = 10
+gamma0 = 1.00
+beta = 0.074              
+BCtop = 'free'
+BCbot = 'free'
+
+NFourier = 256
+NCheb = 64
+cadprop = 1
+cadprint = 20
+dt_write = 1e-4
+max_time = 1
+max_iter = 1000000
+itersnap = 600
+iterdiag =30
+iterscal = 600
+
