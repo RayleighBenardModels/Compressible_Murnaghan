@@ -10,6 +10,6 @@ solid planetary mantles.
 Details of the model and results can be found in the paper
 
 Yanick Ricard, Thierry Alboussière, Stéphane Labrosse, Jezabel Curbelo, and
-Fabien Dubuffet
+Fabien Dubuffet.
 Fully compressible convection for planetary mantles
-*Geophys. J. Int.*, in press.
+*Geophys. J. Int.* (2022), 30, 932-956. [https://doi.org/10.1093/gji/ggac102](https://doi.org/10.1093/gji/ggac102)
